@@ -25,7 +25,6 @@ O sistema proposto busca centralizar dados acadêmicos, indicadores de frequênc
 ---
 
 # Stakeholders Escolhido
-
 ## Docentes
 Responsáveis pela identificação de dificuldades acadêmicas, baixo desempenho e mudanças de comportamento.
 
