@@ -24,19 +24,10 @@ O sistema proposto busca centralizar dados acadêmicos, indicadores de frequênc
 
 ---
 
-# Stakeholders Identificados
-
-## Coordenação de Curso
-Responsável pelo acompanhamento acadêmico e monitoramento de indicadores de retenção.
+# Stakeholders Escolhido
 
 ## Docentes
 Responsáveis pela identificação de dificuldades acadêmicas, baixo desempenho e mudanças de comportamento.
-
-## Núcleo de Apoio Estudantil
-Responsável pelo suporte psicológico, pedagógico e socioeconômico aos estudantes.
-
-## Estudantes
-Principais usuários beneficiados pelas ações de acompanhamento e permanência estudantil.
 
 ---
 
