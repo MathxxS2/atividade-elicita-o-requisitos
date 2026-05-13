@@ -1,4 +1,3 @@
-```md
 # Atividade Prática – Elicitação de Requisitos
 
 ## Sistema de Apoio à Permanência Estudantil e Prevenção da Evasão Acadêmica
