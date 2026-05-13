@@ -160,5 +160,9 @@ Durante o levantamento de requisitos foram utilizadas as seguintes técnicas:
 
 Processo de Software e Engenharia de Requisitos
 
-Instituto Federal Farroupilha – IFFar
+Instituto Federal de Educação, Ciência e Tecnologia Farroupilha — Campus São Borja
+
+Docente: Rafael Baldiati Parizi
+
+Semestre 2026/1 
 ```
